@@ -143,7 +143,7 @@ Item {
 
                 anchors.right: parent.right
                 anchors.verticalCenter: parent.verticalCenter
-                anchors.leftMargin: 10
+                anchors.leftMargin: -10
 
                 rows: 2
                 columns: 2

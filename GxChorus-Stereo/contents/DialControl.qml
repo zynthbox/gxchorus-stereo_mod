@@ -71,7 +71,7 @@ Zynthian.AbstractController {
                 font.capitalization: Font.AllUppercase
                 font.weight: Font.Black
                 font.family: "Hack"
-                font.pointSize: 12
+                font.pointSize: 14
             }
 
             QQC2.Dial {
